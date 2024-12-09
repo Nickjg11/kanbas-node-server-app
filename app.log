@@ -1,0 +1,178 @@
+[2024-12-09T03:24:50.947Z] iron_man
+[2024-12-09T03:26:01.556Z] iron_man
+[2024-12-09T03:26:01.625Z] [object Promise]
+[2024-12-09T03:26:01.646Z] [object Promise]
+[2024-12-09T03:26:01.649Z] [object Promise]
+[2024-12-09T03:26:01.654Z] [object Promise]
+[2024-12-09T03:27:06.320Z] iron_man
+[2024-12-09T03:27:06.425Z] 
+[2024-12-09T03:27:06.436Z] 
+[2024-12-09T03:27:06.444Z] 
+[2024-12-09T03:27:06.451Z] 
+[2024-12-09T03:27:33.434Z] 
+[2024-12-09T03:27:33.442Z] 
+[2024-12-09T03:27:33.454Z] 
+[2024-12-09T03:27:33.461Z] 
+[2024-12-09T03:50:31.811Z] 
+[2024-12-09T03:50:31.819Z] 
+[2024-12-09T03:50:31.823Z] 
+[2024-12-09T03:50:31.829Z] 
+[2024-12-09T03:56:52.281Z] iron_man
+[2024-12-09T03:56:52.347Z] ,
+[2024-12-09T03:56:52.355Z] ,
+[2024-12-09T03:56:52.362Z] ,
+[2024-12-09T03:56:52.370Z] ,
+[2024-12-09T04:03:31.080Z] iron_man
+[2024-12-09T04:03:31.176Z] {
+  _id: new ObjectId('67559d6a43d283456fc9b728'),
+  number: 'RS101',
+  name: 'Rocket Propulsion',
+  startDate: '2023-01-10',
+  endDate: '2023-05-15',
+  department: 'D123',
+  credits: 4,
+  description: 'This course provides an in-depth study of the fundamentals of rocket propulsion, covering topics such as propulsion theory, engine types, fuel chemistry, and the practical applications of rocket technology. Designed for students with a strong background in physics and engineering, the course includes both theoretical instruction and hands-on laboratory work'
+},{
+  _id: new ObjectId('67559d6a43d283456fc9b729'),
+  number: 'RS102',
+  name: 'Aerodynamics',
+  startDate: '2023-01-10',
+  endDate: '2023-05-15',
+  department: 'D123',
+  credits: 3,
+  description: 'This course offers a comprehensive exploration of aerodynamics, focusing on the principles and applications of airflow and its effects on flying objects. Topics include fluid dynamics, airfoil design, lift and drag forces, and the aerodynamic considerations in aircraft design. The course blends theoretical learning with practical applications, suitable for students pursuing a career in aeronautics or astronautics engineering.'
+}
+[2024-12-09T04:03:31.188Z] {
+  _id: new ObjectId('67559d6a43d283456fc9b728'),
+  number: 'RS101',
+  name: 'Rocket Propulsion',
+  startDate: '2023-01-10',
+  endDate: '2023-05-15',
+  department: 'D123',
+  credits: 4,
+  description: 'This course provides an in-depth study of the fundamentals of rocket propulsion, covering topics such as propulsion theory, engine types, fuel chemistry, and the practical applications of rocket technology. Designed for students with a strong background in physics and engineering, the course includes both theoretical instruction and hands-on laboratory work'
+},{
+  _id: new ObjectId('67559d6a43d283456fc9b729'),
+  number: 'RS102',
+  name: 'Aerodynamics',
+  startDate: '2023-01-10',
+  endDate: '2023-05-15',
+  department: 'D123',
+  credits: 3,
+  description: 'This course offers a comprehensive exploration of aerodynamics, focusing on the principles and applications of airflow and its effects on flying objects. Topics include fluid dynamics, airfoil design, lift and drag forces, and the aerodynamic considerations in aircraft design. The course blends theoretical learning with practical applications, suitable for students pursuing a career in aeronautics or astronautics engineering.'
+}
+[2024-12-09T04:03:31.201Z] {
+  _id: new ObjectId('67559d6a43d283456fc9b728'),
+  number: 'RS101',
+  name: 'Rocket Propulsion',
+  startDate: '2023-01-10',
+  endDate: '2023-05-15',
+  department: 'D123',
+  credits: 4,
+  description: 'This course provides an in-depth study of the fundamentals of rocket propulsion, covering topics such as propulsion theory, engine types, fuel chemistry, and the practical applications of rocket technology. Designed for students with a strong background in physics and engineering, the course includes both theoretical instruction and hands-on laboratory work'
+},{
+  _id: new ObjectId('67559d6a43d283456fc9b729'),
+  number: 'RS102',
+  name: 'Aerodynamics',
+  startDate: '2023-01-10',
+  endDate: '2023-05-15',
+  department: 'D123',
+  credits: 3,
+  description: 'This course offers a comprehensive exploration of aerodynamics, focusing on the principles and applications of airflow and its effects on flying objects. Topics include fluid dynamics, airfoil design, lift and drag forces, and the aerodynamic considerations in aircraft design. The course blends theoretical learning with practical applications, suitable for students pursuing a career in aeronautics or astronautics engineering.'
+}
+[2024-12-09T04:03:31.213Z] {
+  _id: new ObjectId('67559d6a43d283456fc9b728'),
+  number: 'RS101',
+  name: 'Rocket Propulsion',
+  startDate: '2023-01-10',
+  endDate: '2023-05-15',
+  department: 'D123',
+  credits: 4,
+  description: 'This course provides an in-depth study of the fundamentals of rocket propulsion, covering topics such as propulsion theory, engine types, fuel chemistry, and the practical applications of rocket technology. Designed for students with a strong background in physics and engineering, the course includes both theoretical instruction and hands-on laboratory work'
+},{
+  _id: new ObjectId('67559d6a43d283456fc9b729'),
+  number: 'RS102',
+  name: 'Aerodynamics',
+  startDate: '2023-01-10',
+  endDate: '2023-05-15',
+  department: 'D123',
+  credits: 3,
+  description: 'This course offers a comprehensive exploration of aerodynamics, focusing on the principles and applications of airflow and its effects on flying objects. Topics include fluid dynamics, airfoil design, lift and drag forces, and the aerodynamic considerations in aircraft design. The course blends theoretical learning with practical applications, suitable for students pursuing a career in aeronautics or astronautics engineering.'
+}
+[2024-12-09T04:10:46.662Z] iron_man
+[2024-12-09T04:10:46.780Z] {
+  _id: new ObjectId('67559d6a43d283456fc9b728'),
+  number: 'RS101',
+  name: 'Rocket Propulsion',
+  startDate: '2023-01-10',
+  endDate: '2023-05-15',
+  department: 'D123',
+  credits: 4,
+  description: 'This course provides an in-depth study of the fundamentals of rocket propulsion, covering topics such as propulsion theory, engine types, fuel chemistry, and the practical applications of rocket technology. Designed for students with a strong background in physics and engineering, the course includes both theoretical instruction and hands-on laboratory work'
+},{
+  _id: new ObjectId('67559d6a43d283456fc9b729'),
+  number: 'RS102',
+  name: 'Aerodynamics',
+  startDate: '2023-01-10',
+  endDate: '2023-05-15',
+  department: 'D123',
+  credits: 3,
+  description: 'This course offers a comprehensive exploration of aerodynamics, focusing on the principles and applications of airflow and its effects on flying objects. Topics include fluid dynamics, airfoil design, lift and drag forces, and the aerodynamic considerations in aircraft design. The course blends theoretical learning with practical applications, suitable for students pursuing a career in aeronautics or astronautics engineering.'
+}
+[2024-12-09T04:10:46.795Z] {
+  _id: new ObjectId('67559d6a43d283456fc9b728'),
+  number: 'RS101',
+  name: 'Rocket Propulsion',
+  startDate: '2023-01-10',
+  endDate: '2023-05-15',
+  department: 'D123',
+  credits: 4,
+  description: 'This course provides an in-depth study of the fundamentals of rocket propulsion, covering topics such as propulsion theory, engine types, fuel chemistry, and the practical applications of rocket technology. Designed for students with a strong background in physics and engineering, the course includes both theoretical instruction and hands-on laboratory work'
+},{
+  _id: new ObjectId('67559d6a43d283456fc9b729'),
+  number: 'RS102',
+  name: 'Aerodynamics',
+  startDate: '2023-01-10',
+  endDate: '2023-05-15',
+  department: 'D123',
+  credits: 3,
+  description: 'This course offers a comprehensive exploration of aerodynamics, focusing on the principles and applications of airflow and its effects on flying objects. Topics include fluid dynamics, airfoil design, lift and drag forces, and the aerodynamic considerations in aircraft design. The course blends theoretical learning with practical applications, suitable for students pursuing a career in aeronautics or astronautics engineering.'
+}
+[2024-12-09T04:10:46.809Z] {
+  _id: new ObjectId('67559d6a43d283456fc9b728'),
+  number: 'RS101',
+  name: 'Rocket Propulsion',
+  startDate: '2023-01-10',
+  endDate: '2023-05-15',
+  department: 'D123',
+  credits: 4,
+  description: 'This course provides an in-depth study of the fundamentals of rocket propulsion, covering topics such as propulsion theory, engine types, fuel chemistry, and the practical applications of rocket technology. Designed for students with a strong background in physics and engineering, the course includes both theoretical instruction and hands-on laboratory work'
+},{
+  _id: new ObjectId('67559d6a43d283456fc9b729'),
+  number: 'RS102',
+  name: 'Aerodynamics',
+  startDate: '2023-01-10',
+  endDate: '2023-05-15',
+  department: 'D123',
+  credits: 3,
+  description: 'This course offers a comprehensive exploration of aerodynamics, focusing on the principles and applications of airflow and its effects on flying objects. Topics include fluid dynamics, airfoil design, lift and drag forces, and the aerodynamic considerations in aircraft design. The course blends theoretical learning with practical applications, suitable for students pursuing a career in aeronautics or astronautics engineering.'
+}
+[2024-12-09T04:10:46.824Z] {
+  _id: new ObjectId('67559d6a43d283456fc9b728'),
+  number: 'RS101',
+  name: 'Rocket Propulsion',
+  startDate: '2023-01-10',
+  endDate: '2023-05-15',
+  department: 'D123',
+  credits: 4,
+  description: 'This course provides an in-depth study of the fundamentals of rocket propulsion, covering topics such as propulsion theory, engine types, fuel chemistry, and the practical applications of rocket technology. Designed for students with a strong background in physics and engineering, the course includes both theoretical instruction and hands-on laboratory work'
+},{
+  _id: new ObjectId('67559d6a43d283456fc9b729'),
+  number: 'RS102',
+  name: 'Aerodynamics',
+  startDate: '2023-01-10',
+  endDate: '2023-05-15',
+  department: 'D123',
+  credits: 3,
+  description: 'This course offers a comprehensive exploration of aerodynamics, focusing on the principles and applications of airflow and its effects on flying objects. Topics include fluid dynamics, airfoil design, lift and drag forces, and the aerodynamic considerations in aircraft design. The course blends theoretical learning with practical applications, suitable for students pursuing a career in aeronautics or astronautics engineering.'
+}
